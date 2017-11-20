@@ -1,0 +1,54 @@
+table, td, th {
+    border: 1px solid brown ;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: center;
+}
+td {
+    height: 25px;
+    vertical-align: center;
+}
+
+.yoga
+{
+  background-color:#6bf441;
+}
+
+.pro
+{
+  background-color: #4286f4;
+}
+
+.eng{
+	background-color:orange;
+}
+
+.pcoach{
+	background-color:#2900d1;
+}
+
+.red{
+	background-color:#d1d100;
+}
+
+
+.other
+{
+	background-color:#f44141;
+}
+
+.day
+{
+background-color:#00d199;
+}
+
+.time{
+background-color:#d10000;
+}
+
+.green
+{
+background-color:#c1ffde;
+}
